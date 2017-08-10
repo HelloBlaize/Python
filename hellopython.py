@@ -8,6 +8,10 @@ multiply = a*b*c
 
 print (summation)
 
+division = a/b
+
 
 #new line
 print (multiply)
+
+print (division)
