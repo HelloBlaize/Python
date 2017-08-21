@@ -1,4 +1,5 @@
 # mycalculator.py 
+# This program will do addition, substruction, Multiplication and division. 
 
 aa = int(input('Please enter your 1st number: '))
 bb = int(input('Please enter your 2nd number: '))
@@ -19,3 +20,4 @@ elif option == 'c':
     print('Multiplication of your 2 numbers are:' , int(aa * bb))
 elif option == 'd':
     print('Division of your 2 numbers are:' , float(aa / bb))
+
