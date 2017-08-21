@@ -1,8 +1,3 @@
-# mycalculator.py 
-# This program will do addition, substruction, Multiplication and division.
-# This is for Pull command check. 
-# 3rd check - develop to master.
-# 4th test - change a .py file on develope and merge to master. 
 
 aa = int(input('Please enter your 1st number: '))
 bb = int(input('Please enter your 2nd number: '))
